@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    display: flex;
+    justify-content:center;
+    position: relative;
+}
+.button{
+    top:2em;
+    position: absolute;
+}
+.button button{
+    padding:2px 5px;
+}
+.rectangle{
+    width:10em;
+    height:10em;
+    background:black;
+    position: absolute;
+    top:5em;
+}
+.sizeWidthActive{
+    width:20em;
+}
+.sizeHeightActive{
+    height:20em;
+}
+.colorActive{
+    background:red;
+}
+.hideActive{
+    display:none;
+}
