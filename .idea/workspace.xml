@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9da7e719-deba-40c3-bde1-a6de6fc400d4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/第一课/控制div属性/README.md" afterPath="$PROJECT_DIR$/第一课/控制div属性/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/第一课/网页换肤/README.md" afterPath="$PROJECT_DIR$/第一课/网页换肤/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,30 +18,30 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第一课/网页换肤/index.html">
+        <entry file="file://$PROJECT_DIR$/第一课/函数接受参数并弹出/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+            <state relative-caret-position="176">
+              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/第一课/网页换肤/js/main.js">
+        <entry file="file://$PROJECT_DIR$/第一课/函数接受参数并弹出/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-286">
-              <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+            <state relative-caret-position="242">
+              <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第一课/网页换肤/css/style.css">
+        <entry file="file://$PROJECT_DIR$/第一课/函数接受参数并弹出/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1503">
-              <caret line="79" column="18" lean-forward="false" selection-start-line="79" selection-start-column="18" selection-end-line="79" selection-end-column="18" />
+            <state relative-caret-position="154">
+              <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -71,7 +71,6 @@
         <option value="$PROJECT_DIR$/第一课/网页换肤/index.html" />
         <option value="$PROJECT_DIR$/第一课/网页换肤/js/main.js" />
         <option value="$PROJECT_DIR$/第一课/函数接受参数并弹出/index.html" />
-        <option value="$PROJECT_DIR$/第一课/函数接受参数并弹出/js/main.js" />
         <option value="$PROJECT_DIR$/第一课/用循环将div变成红色/css/style.css" />
         <option value="$PROJECT_DIR$/第一课/用循环将div变成红色/index.html" />
         <option value="$PROJECT_DIR$/第一课/用循环将div变成红色/js/main.js" />
@@ -79,6 +78,7 @@
         <option value="$PROJECT_DIR$/第一课/记住密码/js/main.js" />
         <option value="$PROJECT_DIR$/第一课/记住密码/index.html" />
         <option value="$PROJECT_DIR$/第一课/记住密码/css/style.css" />
+        <option value="$PROJECT_DIR$/第一课/函数接受参数并弹出/js/main.js" />
       </list>
     </option>
   </component>
@@ -130,6 +130,26 @@
               <item name="Study-JS" type="b2602c69:ProjectViewProjectNode" />
               <item name="Study-JS" type="462c0819:PsiDirectoryNode" />
               <item name="第一课" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Study-JS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Study-JS" type="462c0819:PsiDirectoryNode" />
+              <item name="第一课" type="462c0819:PsiDirectoryNode" />
+              <item name="函数接受参数并弹出" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Study-JS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Study-JS" type="462c0819:PsiDirectoryNode" />
+              <item name="第一课" type="462c0819:PsiDirectoryNode" />
+              <item name="函数接受参数并弹出" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Study-JS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Study-JS" type="462c0819:PsiDirectoryNode" />
+              <item name="第一课" type="462c0819:PsiDirectoryNode" />
+              <item name="函数接受参数并弹出" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Study-JS" type="b2602c69:ProjectViewProjectNode" />
@@ -193,12 +213,12 @@
       <workItem from="1529499850263" duration="379000" />
       <workItem from="1529555679639" duration="230000" />
       <workItem from="1529567952047" duration="15270000" />
-      <workItem from="1529592534366" duration="114000" />
+      <workItem from="1529592534366" duration="645000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26063000" />
+    <option name="totallyTimeSpent" value="26594000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1026" extended-state="6" />
@@ -268,6 +288,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="748">
           <caret line="34" column="1" lean-forward="false" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -289,6 +310,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="748">
           <caret line="34" column="1" lean-forward="false" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -310,6 +332,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="748">
           <caret line="34" column="1" lean-forward="false" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -331,6 +354,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="748">
           <caret line="34" column="1" lean-forward="false" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -369,27 +393,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第一课/函数接受参数并弹出/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第一课/函数接受参数并弹出/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第一课/函数接受参数并弹出/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/第一课/记住密码/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -422,6 +425,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/第一课/网页换肤/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-286">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/第一课/网页换肤/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1503">
@@ -430,10 +441,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第一课/网页换肤/js/main.js">
+    <entry file="file://$PROJECT_DIR$/第一课/函数接受参数并弹出/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-286">
-          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+        <state relative-caret-position="176">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一课/函数接受参数并弹出/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一课/函数接受参数并弹出/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
           <folding />
         </state>
       </provider>

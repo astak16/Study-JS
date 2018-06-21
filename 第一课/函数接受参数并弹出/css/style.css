@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+.row{
+    display: flex;
+    align-items:center;
+    margin:10px 0;
+}
+label{
+    /*border:1px solid green;*/
+    display: inline-block;
+    width:4em;
+    text-align: justify;
+    line-height:20px;
+    height:20px;
+    overflow: hidden;
+    padding-right:5px;
+}
+label::after{
+    content: '';
+    display: inline-block;
+    border:1px solid blue;
+    width:100%;
+}
+.button{
+    text-align:center;
+}
