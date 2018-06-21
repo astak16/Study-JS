@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+.color{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+.red{
+    margin:10px;
+    height:5em;
+    width:5em;
+    background:black;
+}
+.redActive{
+    background:red;
+}

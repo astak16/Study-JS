@@ -1,2 +1,2 @@
-[预览链接]()
+[预览链接]((https://astak16.github.io/Study-JS/%E7%AC%AC%E4%B8%80%E8%AF%BE/%E5%87%BD%E6%95%B0%E6%8E%A5%E5%8F%97%E5%8F%82%E6%95%B0%E5%B9%B6%E5%BC%B9%E5%87%BA/index.html))
 通过`getElementsByTagName`获取到的是数组，还有`getElementsByClassName`也是。
