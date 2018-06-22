@@ -1,0 +1,34 @@
+body{
+    display: flex;
+    justify-content: center;
+    height:100vh;
+}
+ul li{
+    list-style: none;
+}
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+.baidu{
+    margin:10px;
+    width:100px;
+}
+.float{
+    display: none;
+    border:1px solid blue;
+    margin-top:10px;
+}
+.float li{
+    display: block;
+    padding:2px 0 0;
+}
+.close{
+    border-top:1px solid blue;
+}
+.float li:hover{
+    background:#e7e7e7;
+    cursor: pointer;
+    z-index: -1;
+}
