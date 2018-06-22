@@ -1,0 +1,27 @@
+body{
+    display: flex;
+    justify-content: center;
+    height:100vh;
+}
+.outer{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+.buttonSum{
+    margin:10px 0;
+    position: absolute;
+    top:2em;
+}
+.sum{
+    position: absolute;
+    top:5em;
+}
+span{
+    color:gray;
+    font-size:12px;
+}
+label{
+    height:16px;
+    line-height:16px;
+}
