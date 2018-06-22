@@ -1,6 +1,7 @@
 var input = document.getElementById('input')
 var buttonSum = document.getElementById('buttonSum')
 var sum = document.getElementById('sum')
+var inputSum = document.getElementById('inputSum')
 
 input.addEventListener('keyup',function(){
     this.value = this.value.replace(/[^(\d)|(,)]/,'')   //匹配输入的非法字符
@@ -13,5 +14,6 @@ buttonSum.addEventListener('click',function(){
         console.log(typeof  value[i])
         sumText += parseInt(value[i])
     }
-    sum.innerHTML = sumText
+    inputSum.value = sumText;
+    // sum.innerHTML = sumText
 })

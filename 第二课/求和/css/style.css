@@ -25,3 +25,8 @@ label{
     height:16px;
     line-height:16px;
 }
+.inputSum{
+    width:10em;
+    height:2em;
+    background:white;
+}

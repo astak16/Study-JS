@@ -8,3 +8,4 @@
 ## 第二课
 1. [百度输入法](https://astak16.github.io/Study-JS/%E7%AC%AC%E4%BA%8C%E8%AF%BE/%E7%99%BE%E5%BA%A6%E8%BE%93%E5%85%A5%E6%B3%95/index.html)
 2. [点击div，显示内部文本](https://astak16.github.io/Study-JS/%E7%AC%AC%E4%BA%8C%E8%AF%BE/%E7%82%B9%E5%87%BBdiv%EF%BC%8C%E6%98%BE%E7%A4%BA%E5%86%85%E5%AE%B9/index.html)
+3. [求和](https://astak16.github.io/Study-JS/%E7%AC%AC%E4%BA%8C%E8%AF%BE/%E6%B1%82%E5%92%8C/index.html)
