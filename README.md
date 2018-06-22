@@ -6,4 +6,4 @@
 5. [记住密码](https://astak16.github.io/Study-JS/%E7%AC%AC%E4%B8%80%E8%AF%BE/%E8%AE%B0%E4%BD%8F%E5%AF%86%E7%A0%81/index.html)
 
 ## 第二课
-1. [百度输入法]()
+1. [百度输入法](https://astak16.github.io/Study-JS/%E7%AC%AC%E4%BA%8C%E8%AF%BE/%E7%99%BE%E5%BA%A6%E8%BE%93%E5%85%A5%E6%B3%95/index.html)

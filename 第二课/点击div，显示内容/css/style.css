@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    justify-content: center;
+    /*align-items:center;*/
+    height:100vh;
+}
+*{
+    margin:0;
+    padding:0;
+}
+.content{
+    width:30em;
+
+}
+p{
+
+    background:#e7e7e7;
+    font-size:14px;
+    border:1px solid gray;
+    margin:10px 0;
+    padding:10px 20px;
+    text-align:justify; /*文本两端对齐*/
+    text-indent: 2em;   /*段落开通空两格*/
+}
+
+
+
+
+
