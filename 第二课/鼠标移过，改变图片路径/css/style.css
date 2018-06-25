@@ -1,0 +1,58 @@
+body{
+    display: flex;
+    justify-content: center;
+    background:black;
+}
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+ul,li,img{
+    list-style: none;
+    border-radius:5px;
+}
+ul{
+    width:235px;
+    padding:10px 0 5px 5px;
+    margin:20px;
+    background: white;
+}
+ul li{
+    /*border:1px solid gray;*/
+    width:50px;
+    height:50px;
+    float:left;
+    margin-left:5px;
+    margin-bottom:5px;
+
+}
+ul li:nth-child(1){
+    width:160px;
+    height:160px;
+}
+ul li img{
+    border:1px solid gray;
+}
+li:nth-child(1){
+    position: relative;
+}
+div{
+    display: none;
+
+    height: 100%;
+    width:100%;
+    background: white url(../images/loading.gif) 50% 50% no-repeat;
+    position: absolute;
+    top:0;
+    margin:0 auto;
+    opacity: 0.5;
+
+}
+.clearfix::before{
+    content:'';
+    display: block;
+    clear: both;
+}
+
+
