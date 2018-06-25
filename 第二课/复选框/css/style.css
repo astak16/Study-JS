@@ -1,0 +1,43 @@
+body{
+
+}
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.background{
+    font-size: 10px;
+    width:120px;
+    margin:20px auto;
+    border: 1px solid gray;
+    border-radius:10px;
+}
+.background dd .row label:last-child{
+    color:#0199FE;
+    font-weight: normal;
+    cursor: pointer;
+    margin-left:5px;
+}
+.background dd .row label:last-child:hover{
+    color:red;
+    text-decoration: underline;
+}
+.background dd{
+    font-weight:bold;
+    margin:5px 15px 0;
+    padding: 0 0 5px 0;
+    border-bottom: 1px solid gray;
+}
+.background dt .row{
+    margin:10px 15px 0 ;
+}
+.background dt .row:last-child{
+    margin-bottom: 10px;
+}
+.background dd .row input,
+.background dd .row label,
+.background dt .row input,
+.background dt .row input{
+    vertical-align:middle
+}
