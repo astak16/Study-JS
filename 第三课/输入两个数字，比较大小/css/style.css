@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+.comparing input:nth-child(odd){    /* 标签中间有其他标签，也会算上去的 */
+    width:70px;
+    height:20px;
+}
+.comparing span{
+    display: inline-block;
+    margin:0 5px;
+}
+.comparing .xxx{
+    display: inline-block;
+    width:50px;
+}
