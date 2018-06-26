@@ -22,3 +22,4 @@
 
 ## 第三课
 1. [用typeof查看数据类型](https://astak16.github.io/Study-JS/%E7%AC%AC%E4%B8%89%E8%AF%BE/%E7%94%A8typeof%E6%9F%A5%E7%9C%8B%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/index.html)
+2. [用praseInt解析数字并求和](https://astak16.github.io/Study-JS/%E7%AC%AC%E4%B8%89%E8%AF%BE/%E7%94%A8parseInt%E8%A7%A3%E6%9E%90%E6%95%B0%E5%AD%97%E5%B9%B6%E6%B1%82%E5%92%8C/index.html)
