@@ -21,4 +21,4 @@
 12. [复选框](https://astak16.github.io/Study-JS/%E7%AC%AC%E4%BA%8C%E8%AF%BE/%E5%A4%8D%E9%80%89%E6%A1%86/index.html)
 
 ## 第三课
-1. [用typeof查看数据类型]()
+1. [用typeof查看数据类型](https://astak16.github.io/Study-JS/%E7%AC%AC%E4%B8%89%E8%AF%BE/%E7%94%A8typeof%E6%9F%A5%E7%9C%8B%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/index.html)

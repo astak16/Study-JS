@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.addition{
+    margin-top:20px;
+}
+.addition input:not(:last-child){
+    /*display: block;*/
+    width:80px;
+    height:20px;
+}
+.addition input{
+    vertical-align: middle;
+}
+.addition span{
+    display: inline-block;
+    vertical-align: middle;
+    margin:0 10px;
+}
+.addition span:last-child{
+    margin:0;
+}
