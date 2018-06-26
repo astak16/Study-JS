@@ -1,0 +1,10 @@
+pre{
+    border:1px dotted gray;
+    background:#F0F0F0;
+    height:100px;
+    display: flex;
+    align-items: center;
+    padding:5px 10px;
+    color:#008000;
+}
+
