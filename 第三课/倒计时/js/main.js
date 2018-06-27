@@ -6,7 +6,7 @@ input[0].addEventListener('click',function () {
 
     switch (this.value){
         case '启动':
-            id = setInterval(updateTime,100)
+            id = setInterval(updateTime,1000)
             this.value = '取消'
             break;
         case '取消':
@@ -19,7 +19,7 @@ input[0].addEventListener('click',function () {
 })
 
 function format(a) {
-    console.log(a.toString().replace(/^(\d)$/,'$1'))
+    // console.log(a.toString().replace(/^(\d)$/,'$1'))
     return a.toString().replace(/^(\d)$/,'0$1')
 }
 
@@ -30,6 +30,7 @@ function updateTime(){
 
     if(remain <= 0){
         // console.log(remain)
+
         clearInterval(id)
         return
     }
