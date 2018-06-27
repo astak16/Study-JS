@@ -1,0 +1,39 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+.countDown{
+    background:black;
+    color:white;
+    height:150px;
+    width:300px;
+    font-size: 25px;
+    position: relative;
+    text-align: center;
+}
+span,
+input{
+    box-sizing: border-box;
+    display: inline-block;
+}
+span{
+    margin:10px ;
+    border:1px solid gray;
+    background:white;
+    width:50px;
+    height:50px;
+    color:black;
+    line-height:50px;
+    /*vertical-align: middle; */
+}
+input{
+    position: absolute;
+    bottom: 0;
+    width:calc(100% - 20px);
+    left:0;
+    margin:10px;
+    /*padding:10px 0;*/
+    font-size:26px;
+    letter-spacing: 1em;
+    /*text-align: center;*/
+}
