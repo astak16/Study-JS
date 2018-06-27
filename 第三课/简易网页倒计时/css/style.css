@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+.clock{
+    background:black;
+    width:600px;
+    height:100px;
+    line-height: 100px;
+    text-align: center;
+    color:white;
+    font-size: 26px;
+    vertical-align: middle;
+}
+span{
+    display: inline-block;
+    border:1px solid gray;
+    background: white;
+    color:black;
+    height:50px;
+    width:50px;
+    line-height:50px;
+    text-align: center;
+    margin: 0 5px 0 4px;
+
+}
+span:first-child{
+    width:70px;
+}
+span:last-child{
+    width:100px;
+}

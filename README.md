@@ -27,4 +27,6 @@
 3. [累加按钮，自动加1](https://astak16.github.io/Study-JS/%E7%AC%AC%E4%B8%89%E8%AF%BE/%E7%B4%AF%E5%8A%A0%E6%8C%89%E9%92%AE%EF%BC%8C%E8%87%AA%E5%8A%A01/index.html)
 4. [输入两个数字，比较大小](https://astak16.github.io/Study-JS/%E7%AC%AC%E4%B8%89%E8%AF%BE/%E8%BE%93%E5%85%A5%E4%B8%A4%E4%B8%AA%E6%95%B0%E5%AD%97%EF%BC%8C%E6%AF%94%E8%BE%83%E5%A4%A7%E5%B0%8F/index.html)
 5. [判读数字是否是两位数](https://astak16.github.io/Study-JS/%E7%AC%AC%E4%B8%89%E8%AF%BE/%E5%88%A4%E6%96%AD%E6%95%B0%E5%AD%97%E5%87%A0%E4%BD%8D%E6%95%B0/index.html)
+6. [页面加载后累加，自加1](https://astak16.github.io/Study-JS/%E7%AC%AC%E4%B8%89%E8%AF%BE/%E9%A1%B5%E9%9D%A2%E5%8A%A0%E8%BD%BD%E5%90%8E%E7%B4%AF%E5%8A%A0%EF%BC%8C%E8%87%AA%E5%8A%A01/index.html)
+6. [网页计算器](https://astak16.github.io/Study-JS/%E7%AC%AC%E4%B8%89%E8%AF%BE/%E7%BD%91%E9%A1%B5%E8%AE%A1%E7%AE%97%E5%99%A8/index.html)
 
