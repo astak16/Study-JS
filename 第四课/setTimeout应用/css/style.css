@@ -1,0 +1,150 @@
+body{
+    display: flex;
+    justify-content: center;
+    background: black;
+    width:100vw;
+}
+ul>li{
+    list-style: none;
+}
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.clearfix::before{
+    content:'';
+    display: block;
+    clear: both;
+}
+.navBackground .navOne{
+    /*background: transparent;*/
+    background:#235D98;
+    border:3px solid #7499BE;
+    height:45px;
+    line-height: 40px;
+    color:white;
+    margin-top:20px;
+    /*outline:3px solid #265F99;*/
+    border-radius:5px;
+    box-shadow: 0 0 0 3px #265F99;
+}
+/*.navBackground .navOne > li{*/
+/*}*/
+.navBackground .navOne > li{
+    float:left;
+    position: relative;
+    margin:0 30px;
+}
+.navBackground .navOne > li > .line{
+    width:2px;
+    height:31px;
+    position:absolute;
+    top:4px;
+    right:-30px;
+    background: linear-gradient(to right,#15426F,#5084B7,#365D84,#4B6F93,#6382A2,#7DAAD5,#AFC1D5,#7DAAD5,#6382A2,#4B6F93,#365D84,#5084B7,#15426F);
+}
+.navBackground .navOne > li > .triangle {
+    display: none;
+    border:7px solid;
+    height:14px;
+    width:14px;
+    border-color:transparent transparent #5084B7 transparent;
+}
+.navBackground .navOne li > .navTwo{
+    position: absolute;
+    display: none;
+    width:auto;
+    font-size:14px;
+    background: #F8FAFC;
+    border:1px solid #7499BE;
+    border-radius: 5px;
+    top:50px;
+    right:-20px;
+}
+/*.navBackground .navOne li:hover > .navTwo,*/
+/*.navBackground .navOne li:hover .triangle{*/
+    /*display: block;*/
+/*}*/
+.navBackground .navOne > li > .navTwo > span{
+    display: block;
+    padding:0 5px;
+    width:90px;
+    text-align:center;
+    position:relative;
+
+}
+.navBackground .navOne > li > .navTwo > span > a{
+    color:#15426F;
+    text-decoration: none;
+    border-bottom: 2px solid #15426F;
+}
+/*.navBackground .navOne > li > .navTwo > span > a:hover{*/
+    /*border-bottom: 2px solid #15426F;*/
+/*}*/
+.navBackground .navOne > li > .navTwo > span:not(:first-child)::before{
+    content:'';
+    position:absolute;
+    width:5em;
+    height:2px;
+    background: linear-gradient(to top,#15426F,#5084B7,#365D84,#4B6F93,#6382A2,#7DAAD5,#AFC1D5,#7DAAD5,#6382A2,#4B6F93,#365D84,#5084B7,#15426F);
+    top:0;
+    right:10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.navBackground .navOne li .navTwoA{*/
+    /*display: block;*/
+/*}*/
+/*.navBackground .navOne li .navTwoB{*/
+    /*display: block;*/
+/*}*/
+/*.navBackground .navOne li .navTwoC{*/
+    /*display: block;*/
+/*}*/
+/*.navBackground .navOne li .navTwoD{*/
+    /*display: block;*/
+/*}*/
+/*.navBackground .navOne li .navTwoE{*/
+    /*display: block;*/
+/*}*/
+/*.navBackground .navOne li .navTwoF{*/
+    /*display: block;*/
+/*}*/
+/*.navBackground .navOne li .navTwoG{*/
+    /*display: block;*/
+/*}*/
+
+
+
+
+
